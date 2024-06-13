@@ -287,5 +287,10 @@ set tabline=%!Vim_NeatTabLine()
 set guitablabel=%{Vim_NeatGuiTabLabel()}
 set guitabtooltip=%{Vim_NeatGuiTabTip()}
 
+"----------------------------------------------------------------------
+" 自动换行
+"----------------------------------------------------------------------
+set wrap
+
 
 
